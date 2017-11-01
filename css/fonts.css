@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "LatoRegular";
+  src: url("../fonts/Lato/LatoRegular/Lato-Regular.eot");
+  src: url("../fonts/Lato/LatoRegular/Lato-Regular.woff") format("woff"), url("../fonts/Lato/LatoRegular/Lato-Regular.ttf") format("truetype"), url("../fonts/Lato/LatoRegular/Lato-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("../fonts/Lato/LatoBold/Lato-Bold.eot");
+  src: url("../fonts/Lato/LatoBold/Lato-Bold.woff") format("woff"), url("../fonts/Lato/LatoBold/Lato-Bold.ttf") format("truetype"), url("../fonts/Lato/LatoBold/Lato-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+/*# sourceMappingURL=fonts.css.map */
